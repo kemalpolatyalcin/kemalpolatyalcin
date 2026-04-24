@@ -1,6 +1,6 @@
 # Hi, I'm Kemal Polat Yalcin
 
-I am a Full-Stack Developer and IT student focused on building scalable web platforms and integrating multimodal AI (LLMs, Voice, Vision) into real-world applications. Beyond writing clean code, I specialize in designing robust architectures, managing server bottlenecks, and optimizing AI latency.
+I am a Full-Stack AI Developer and IT student focused on building scalable web platforms and integrating multimodal AI (LLMs, Voice, Vision) into real-world applications. Beyond writing clean code, I specialize in designing robust architectures, managing server bottlenecks, and optimizing AI latency.
 
 ### Engineering Philosophy
 I don't just stitch APIs together; I build systems. Whether it's managing concurrent user spikes on university servers or implementing asynchronous pipelines for agentic AI, my focus is always on performance, resilience, and user impact.
